@@ -1,0 +1,27 @@
+/*
+	Theme Name:			Skelementor
+	Description:		Ultra-minimal theme specifically for Elementor and to be as lightweight as possible.
+	Theme URI:			https://mousebuilt.com.au/skelementor-theme/
+	Author:				Mousebuilt (Konker)
+	Author URI:			https://mousebuilt.com.au/
+	Version:			1.0.7
+	Requires at least:	4.9
+	Tested up to:		4.9.8
+	License:			GNU General Public License v3 or later.
+	License URI:		https://www.gnu.org/licenses/gpl-3.0.html
+	Tags:				custom-logo, one-column, two-columns, translation-ready
+	Text Domain: 		skelementor
+*/
+
+/*! minimal reset based on simplified normalise.css | github.com/necolas/normalize.css */
+html{line-height:1.15}body{margin:0}h1{font-size:2em;margin:.67em 0}b,strong{font-weight:bolder}pre,code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}fieldset{padding:.35em .75em .625em}progress{vertical-align:baseline}textarea{overflow:auto}template,[hidden]{display:none}
+#copyright{opacity:.7;font-size:small;text-align:right;margin:.5rem}
+.alignright{text-align:right}
+.alignleft{text-align:left}
+.aligncenter{text-align:center}
+.bypostauthor{}
+.gallery-caption{}
+.screen-reader-text{}
+.sticky{}
+.wp-caption{}
+.wp-caption-text{}

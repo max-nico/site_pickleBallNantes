@@ -1,0 +1,107 @@
+#neder-generator-overlay{width:100%; height:100%; left:0px; position:fixed; top:0px; z-index: 159900;}
+.neder-overlay-bg{background-color: #000000; opacity: 0.75;}
+#neder-generator-wrap {top:30px; right:30px; left:30px; bottom:30px; display: none; position: fixed; background: #fff; min-width:660px; min-height:600px; z-index: 160000; overflow:auto;text-align:center;}
+#neder-generator {margin:0; padding:20px; overflow: auto;}
+.neder-close {
+	float:right;
+	font-size:50px;
+	color:#000;
+}
+
+#neder-generator-insert {
+	margin-bottom:50px;
+}
+
+.wpmp-field {
+	display:block;
+}
+
+.neder_shortcodes_type {
+	display:block;
+	text-align:center;
+	margin-bottom:30px;
+}
+
+.neder_main_title {
+	font-size:25px;
+	color:#e74c3c;
+	text-align:center;
+	display:block;
+	padding-bottom:20px;
+	text-transform:uppercase;	
+}
+
+.wpmp-title {
+	display:block;
+}
+
+.title-box h2 {
+	font-size:20px;
+	color:#e74c3c;
+	text-align:center;
+}
+.title-box h3 {
+	text-align:center;
+	font-size:16px;
+}
+
+.wpmp-inline {
+	display:inline-block;
+}
+
+.neder_first_box,
+.neder_second_box,
+.neder_third_box {
+	width:33.3%;
+	float:left;
+}
+.neder_clear_box {
+	clear:both;
+}
+
+.post-type-adt_neder #minor-publishing {
+	display:none;
+}
+
+.ui-dialog.neder-wp-dialog {
+	border-radius:0;
+}
+.ui-dialog.neder-wp-dialog .ui-dialog-titlebar {
+	background:#f4f4f4;
+	color:#6a84a4;
+}
+.ui-dialog.neder-wp-dialog .ui-dialog-titlebar-close:before {
+	content:none;
+}
+.neder-wp-dialog .ui-button-icon-only .ui-icon {
+	left:inherit;
+	margin-left:inherit;
+}
+.ui-dialog.neder-wp-dialog .ui-dialog-titlebar-close span {
+	margin:inherit;
+}
+.wp-core-ui .neder-wp-dialog .button-primary {
+	text-shadow:0 0 0;
+	box-shadow:0 0 0;
+}
+.ui-dialog.neder-wp-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	float:none;
+	text-align:center;
+}
+.ui-dialog.neder-wp-dialog .ui-dialog-buttonpane button {
+	margin:10px;
+	padding:0;
+	height:auto;
+}
+.neder-wp-dialog .ui-button-text-only .ui-button-text {
+	padding:10px;
+}
+.ui-dialog.neder-wp-dialog  .ui-dialog-titlebar-close {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    width: 19px;
+    margin: -10px 0 0 0;
+    height: 19px;
+	padding:0;
+}

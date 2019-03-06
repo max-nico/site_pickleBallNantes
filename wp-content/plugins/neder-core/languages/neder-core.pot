@@ -1,0 +1,576 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Neder Core\n"
+"POT-Creation-Date: 2017-12-10 10:07+0100\n"
+"PO-Revision-Date: 2017-07-03 11:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: AD-Theme\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: neder-core.php:404 neder-core.php:405
+msgid "Import Demo"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:16
+msgid "Neder SHORTCODES"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:38
+msgid "Neder Shortcodes"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:41
+msgid "Select your shortcode"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:63
+#: shortcodes/editor/shortcodes-editor.php:77
+#: shortcodes/editor/shortcodes-editor.php:98
+msgid "Main Color"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:68
+#: shortcodes/editor/shortcodes-editor.php:82
+#: shortcodes/editor/shortcodes-editor.php:103
+msgid "Secondary Color"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:111 vc/class/posts.php:60
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/editor/shortcodes-editor.php:142
+msgid "Insert Shortcode"
+msgstr ""
+
+#: vc/class/header.php:28
+msgid "Header Posts"
+msgstr ""
+
+#: vc/class/header.php:29 vc/class/newsticker.php:29 vc/class/posts.php:29
+msgid "Display your posts"
+msgstr ""
+
+#: vc/class/header.php:34 vc/class/newsticker.php:34 vc/class/posts.php:34
+#: vc/class/posts_carousel.php:34 vc/class/posts_tab.php:34
+msgid "Neder"
+msgstr ""
+
+#: vc/class/header.php:39
+msgid "Header Display Name"
+msgstr ""
+
+#: vc/class/header.php:46 vc/class/newsticker.php:46 vc/class/posts.php:46
+#: vc/class/posts_carousel.php:46
+msgid "Type"
+msgstr ""
+
+#: vc/class/header.php:49 vc/class/newsticker.php:49 vc/class/posts.php:49
+#: vc/class/posts_carousel.php:49
+msgid "Type 1"
+msgstr ""
+
+#: vc/class/header.php:50 vc/class/newsticker.php:50 vc/class/posts.php:50
+#: vc/class/posts_carousel.php:50
+msgid "Type 2"
+msgstr ""
+
+#: vc/class/header.php:51 vc/class/newsticker.php:51 vc/class/posts.php:51
+msgid "Type 3"
+msgstr ""
+
+#: vc/class/header.php:52
+msgid "Type 4 (Carousel)"
+msgstr ""
+
+#: vc/class/header.php:53 vc/class/posts.php:53
+msgid "Type 5"
+msgstr ""
+
+#: vc/class/header.php:59 vc/class/posts.php:75 vc/class/posts_carousel.php:56
+#: vc/class/posts_tab.php:46
+msgid "Date Format"
+msgstr ""
+
+#: vc/class/header.php:62 vc/class/posts.php:78 vc/class/posts_carousel.php:59
+#: vc/class/posts_tab.php:49
+msgid "November 6, 2010"
+msgstr ""
+
+#: vc/class/header.php:63 vc/class/posts.php:79 vc/class/posts_carousel.php:60
+#: vc/class/posts_tab.php:50
+msgid "November 6, 2010 12:50 am"
+msgstr ""
+
+#: vc/class/header.php:64 vc/class/posts.php:80 vc/class/posts_carousel.php:61
+#: vc/class/posts_tab.php:51
+msgid "November, 2010"
+msgstr ""
+
+#: vc/class/header.php:65 vc/class/posts.php:81 vc/class/posts_carousel.php:62
+#: vc/class/posts_tab.php:52
+msgid "12:50 am"
+msgstr ""
+
+#: vc/class/header.php:66 vc/class/posts.php:82 vc/class/posts_carousel.php:63
+#: vc/class/posts_tab.php:53
+msgid "12:50:48 am"
+msgstr ""
+
+#: vc/class/header.php:67 vc/class/posts.php:83 vc/class/posts_carousel.php:64
+#: vc/class/posts_tab.php:54
+msgid "Saturday, November 6th, 2010"
+msgstr ""
+
+#: vc/class/header.php:68 vc/class/posts.php:84 vc/class/posts_carousel.php:65
+#: vc/class/posts_tab.php:55
+msgid "Nov 6, 2010 @ 0:50"
+msgstr ""
+
+#: vc/class/header.php:69 vc/class/posts.php:85 vc/class/posts_carousel.php:66
+#: vc/class/posts_tab.php:56
+msgid "2010/11/06 at 12:50 AM"
+msgstr ""
+
+#: vc/class/header.php:70 vc/class/posts.php:86 vc/class/posts_carousel.php:67
+#: vc/class/posts_tab.php:57
+msgid "2010/11/06 at 12:50am"
+msgstr ""
+
+#: vc/class/header.php:71 vc/class/posts.php:87 vc/class/posts_carousel.php:68
+#: vc/class/posts_tab.php:58
+msgid "2010/11/06 12:50:48 AM"
+msgstr ""
+
+#: vc/class/header.php:72 vc/class/posts.php:88 vc/class/posts_carousel.php:69
+#: vc/class/posts_tab.php:59
+msgid "2010/11/06"
+msgstr ""
+
+#: vc/class/header.php:78
+msgid "Post to load"
+msgstr ""
+
+#: vc/class/header.php:91 vc/class/newsticker.php:66 vc/class/posts.php:96
+#: vc/class/posts_carousel.php:77 vc/class/posts_tab.php:75
+#: vc/class/posts_tab.php:193 vc/class/posts_tab.php:311
+msgid "Source"
+msgstr ""
+
+#: vc/class/header.php:94 vc/class/newsticker.php:69 vc/class/posts.php:99
+#: vc/class/posts_carousel.php:80 vc/class/posts_tab.php:78
+#: vc/class/posts_tab.php:196 vc/class/posts_tab.php:314
+msgid "WordPress Posts"
+msgstr ""
+
+#: vc/class/header.php:95 vc/class/newsticker.php:70 vc/class/posts.php:100
+#: vc/class/posts_carousel.php:81 vc/class/posts_tab.php:79
+#: vc/class/posts_tab.php:197 vc/class/posts_tab.php:315
+msgid "Custom Posts Type"
+msgstr ""
+
+#: vc/class/header.php:103 vc/class/posts.php:108
+#: vc/class/posts_carousel.php:89 vc/class/posts_tab.php:87
+#: vc/class/posts_tab.php:205 vc/class/posts_tab.php:323
+msgid "All Posts/Sticky posts"
+msgstr ""
+
+#: vc/class/header.php:106 vc/class/newsticker.php:81 vc/class/posts.php:111
+#: vc/class/posts_carousel.php:92 vc/class/posts_tab.php:90
+#: vc/class/posts_tab.php:208 vc/class/posts_tab.php:326
+msgid "All Posts"
+msgstr ""
+
+#: vc/class/header.php:107 vc/class/newsticker.php:82 vc/class/posts.php:112
+#: vc/class/posts_carousel.php:93 vc/class/posts_tab.php:91
+#: vc/class/posts_tab.php:209 vc/class/posts_tab.php:327
+msgid "Only Sticky Posts"
+msgstr ""
+
+#: vc/class/header.php:119 vc/class/newsticker.php:94 vc/class/posts.php:124
+#: vc/class/posts_carousel.php:105 vc/class/posts_tab.php:103
+#: vc/class/posts_tab.php:221 vc/class/posts_tab.php:339
+msgid "Select Post Type Source"
+msgstr ""
+
+#: vc/class/header.php:130 vc/class/newsticker.php:105 vc/class/posts.php:135
+#: vc/class/posts_carousel.php:116 vc/class/posts_tab.php:114
+#: vc/class/posts_tab.php:232 vc/class/posts_tab.php:350
+msgid "Categories"
+msgstr ""
+
+#: vc/class/header.php:144 vc/class/posts.php:149
+#: vc/class/posts_carousel.php:130 vc/class/posts_tab.php:128
+#: vc/class/posts_tab.php:246 vc/class/posts_tab.php:364
+msgid "Categories Posts Type"
+msgstr ""
+
+#: vc/class/header.php:146 vc/class/newsticker.php:121 vc/class/posts.php:151
+#: vc/class/posts_carousel.php:132 vc/class/posts_tab.php:130
+#: vc/class/posts_tab.php:248 vc/class/posts_tab.php:366
+msgid ""
+"Write Categories slug separate by comma(,) for example: cat-slug1, cat-"
+"slug2, cat-slug3 (Leave empty for all categories)"
+msgstr ""
+
+#: vc/class/header.php:157 vc/class/newsticker.php:132 vc/class/posts.php:162
+#: vc/class/posts_carousel.php:143 vc/class/posts_tab.php:141
+#: vc/class/posts_tab.php:259 vc/class/posts_tab.php:377
+msgid "Order"
+msgstr ""
+
+#: vc/class/header.php:160 vc/class/newsticker.php:135 vc/class/posts.php:165
+#: vc/class/posts_carousel.php:146 vc/class/posts_tab.php:144
+#: vc/class/posts_tab.php:262 vc/class/posts_tab.php:380
+msgid "DESC"
+msgstr ""
+
+#: vc/class/header.php:161 vc/class/newsticker.php:136 vc/class/posts.php:166
+#: vc/class/posts_carousel.php:147 vc/class/posts_tab.php:145
+#: vc/class/posts_tab.php:263 vc/class/posts_tab.php:381
+msgid "ASC"
+msgstr ""
+
+#: vc/class/header.php:170 vc/class/newsticker.php:145 vc/class/posts.php:175
+#: vc/class/posts_carousel.php:156 vc/class/posts_tab.php:154
+#: vc/class/posts_tab.php:272 vc/class/posts_tab.php:390
+msgid "Order By"
+msgstr ""
+
+#: vc/class/header.php:173 vc/class/newsticker.php:148 vc/class/posts.php:178
+#: vc/class/posts_carousel.php:159 vc/class/posts_tab.php:157
+#: vc/class/posts_tab.php:275 vc/class/posts_tab.php:393
+msgid "Date"
+msgstr ""
+
+#: vc/class/header.php:174 vc/class/newsticker.php:149 vc/class/posts.php:179
+#: vc/class/posts_carousel.php:160 vc/class/posts_tab.php:158
+#: vc/class/posts_tab.php:276 vc/class/posts_tab.php:394
+msgid "ID"
+msgstr ""
+
+#: vc/class/header.php:175 vc/class/newsticker.php:150 vc/class/posts.php:180
+#: vc/class/posts_carousel.php:161 vc/class/posts_tab.php:159
+#: vc/class/posts_tab.php:277 vc/class/posts_tab.php:395
+msgid "Author"
+msgstr ""
+
+#: vc/class/header.php:176 vc/class/newsticker.php:151 vc/class/posts.php:181
+#: vc/class/posts_carousel.php:162 vc/class/posts_tab.php:160
+#: vc/class/posts_tab.php:278 vc/class/posts_tab.php:396
+msgid "Title"
+msgstr ""
+
+#: vc/class/header.php:177 vc/class/newsticker.php:152 vc/class/posts.php:182
+#: vc/class/posts_carousel.php:163 vc/class/posts_tab.php:161
+#: vc/class/posts_tab.php:279 vc/class/posts_tab.php:397
+msgid "Name"
+msgstr ""
+
+#: vc/class/header.php:178 vc/class/newsticker.php:153 vc/class/posts.php:183
+#: vc/class/posts_carousel.php:164 vc/class/posts_tab.php:162
+#: vc/class/posts_tab.php:280 vc/class/posts_tab.php:398
+msgid "Modified"
+msgstr ""
+
+#: vc/class/header.php:179 vc/class/newsticker.php:154 vc/class/posts.php:184
+#: vc/class/posts_carousel.php:165 vc/class/posts_tab.php:163
+#: vc/class/posts_tab.php:281 vc/class/posts_tab.php:399
+msgid "Parent"
+msgstr ""
+
+#: vc/class/header.php:180 vc/class/newsticker.php:155 vc/class/posts.php:185
+#: vc/class/posts_carousel.php:166 vc/class/posts_tab.php:164
+#: vc/class/posts_tab.php:282 vc/class/posts_tab.php:400
+msgid "Rand"
+msgstr ""
+
+#: vc/class/header.php:181 vc/class/newsticker.php:156 vc/class/posts.php:186
+#: vc/class/posts_carousel.php:167 vc/class/posts_tab.php:165
+#: vc/class/posts_tab.php:283 vc/class/posts_tab.php:401
+msgid "Comments Count"
+msgstr ""
+
+#: vc/class/header.php:182 vc/class/newsticker.php:157 vc/class/posts.php:187
+#: vc/class/posts_carousel.php:168 vc/class/posts_tab.php:166
+#: vc/class/posts_tab.php:284 vc/class/posts_tab.php:402
+msgid "Views"
+msgstr ""
+
+#: vc/class/header.php:183 vc/class/newsticker.php:158 vc/class/posts.php:188
+#: vc/class/posts_carousel.php:169 vc/class/posts_tab.php:167
+#: vc/class/posts_tab.php:285 vc/class/posts_tab.php:403
+msgid "None"
+msgstr ""
+
+#: vc/class/header.php:192 vc/class/posts_carousel.php:187
+msgid "Number Item Show"
+msgstr ""
+
+#: vc/class/header.php:195 vc/class/header.php:217 vc/class/header.php:239
+#: vc/class/posts_carousel.php:190 vc/class/posts_carousel.php:208
+#: vc/class/posts_carousel.php:226
+msgid "1"
+msgstr ""
+
+#: vc/class/header.php:196 vc/class/header.php:218 vc/class/header.php:240
+#: vc/class/posts_carousel.php:191 vc/class/posts_carousel.php:209
+#: vc/class/posts_carousel.php:227
+msgid "2"
+msgstr ""
+
+#: vc/class/header.php:197 vc/class/header.php:219 vc/class/header.php:241
+#: vc/class/posts_carousel.php:192 vc/class/posts_carousel.php:210
+#: vc/class/posts_carousel.php:228
+msgid "3"
+msgstr ""
+
+#: vc/class/header.php:198 vc/class/header.php:220 vc/class/header.php:242
+#: vc/class/posts_carousel.php:193 vc/class/posts_carousel.php:211
+#: vc/class/posts_carousel.php:229
+msgid "4"
+msgstr ""
+
+#: vc/class/header.php:199 vc/class/header.php:221 vc/class/header.php:243
+#: vc/class/posts_carousel.php:194 vc/class/posts_carousel.php:212
+#: vc/class/posts_carousel.php:230
+msgid "5"
+msgstr ""
+
+#: vc/class/header.php:200 vc/class/header.php:222 vc/class/header.php:244
+#: vc/class/posts_carousel.php:195 vc/class/posts_carousel.php:213
+#: vc/class/posts_carousel.php:231
+msgid "6"
+msgstr ""
+
+#: vc/class/header.php:201 vc/class/header.php:223 vc/class/header.php:245
+#: vc/class/posts_carousel.php:196 vc/class/posts_carousel.php:214
+#: vc/class/posts_carousel.php:232
+msgid "7"
+msgstr ""
+
+#: vc/class/header.php:202 vc/class/header.php:224 vc/class/header.php:246
+#: vc/class/posts_carousel.php:197 vc/class/posts_carousel.php:215
+#: vc/class/posts_carousel.php:233
+msgid "8"
+msgstr ""
+
+#: vc/class/header.php:203 vc/class/header.php:225 vc/class/header.php:247
+#: vc/class/posts_carousel.php:198 vc/class/posts_carousel.php:216
+#: vc/class/posts_carousel.php:234
+msgid "9"
+msgstr ""
+
+#: vc/class/header.php:214 vc/class/posts_carousel.php:205
+msgid "Item Show for content between 600px tp 900px "
+msgstr ""
+
+#: vc/class/header.php:236 vc/class/posts_carousel.php:223
+msgid "Item Show for content between 0px tp 599px "
+msgstr ""
+
+#: vc/class/header.php:259 vc/class/posts_carousel.php:255
+msgid "Autoplay"
+msgstr ""
+
+#: vc/class/header.php:272 vc/class/posts_carousel.php:264
+msgid "Navigation"
+msgstr ""
+
+#: vc/class/header.php:275 vc/class/posts_carousel.php:267
+msgid "Show"
+msgstr ""
+
+#: vc/class/header.php:276 vc/class/posts_carousel.php:268
+msgid "Hidden"
+msgstr ""
+
+#: vc/class/newsticker.php:28
+msgid "News Ticker"
+msgstr ""
+
+#: vc/class/newsticker.php:39
+msgid "News Ticker Name"
+msgstr ""
+
+#: vc/class/newsticker.php:57
+msgid "Autoplay (ms)"
+msgstr ""
+
+#: vc/class/newsticker.php:59
+msgid "Example 2000. Leave empty for default value"
+msgstr ""
+
+#: vc/class/newsticker.php:78
+msgid "All Posts/Sticky Posts"
+msgstr ""
+
+#: vc/class/newsticker.php:119
+msgid "Categories Post Type"
+msgstr ""
+
+#: vc/class/newsticker.php:166 vc/class/posts.php:214
+#: vc/class/posts_carousel.php:177 vc/class/posts_tab.php:175
+#: vc/class/posts_tab.php:293 vc/class/posts_tab.php:411
+msgid "Number Posts"
+msgstr ""
+
+#: vc/class/posts.php:28
+msgid "Display Posts"
+msgstr ""
+
+#: vc/class/posts.php:39
+msgid "Posts Display Name"
+msgstr ""
+
+#: vc/class/posts.php:52
+msgid "Type 4"
+msgstr ""
+
+#: vc/class/posts.php:54
+msgid "Type 6"
+msgstr ""
+
+#: vc/class/posts.php:196
+msgid "Pagination"
+msgstr ""
+
+#: vc/class/posts.php:199
+msgid "No"
+msgstr ""
+
+#: vc/class/posts.php:200
+msgid "Yes"
+msgstr ""
+
+#: vc/class/posts.php:201
+msgid "Yes with load more"
+msgstr ""
+
+#: vc/class/posts.php:227
+msgid "Pagination Type"
+msgstr ""
+
+#: vc/class/posts.php:230
+msgid "Numeric"
+msgstr ""
+
+#: vc/class/posts.php:231
+msgid "Normal"
+msgstr ""
+
+#: vc/class/posts.php:243
+msgid "Number Posts For Page"
+msgstr ""
+
+#: vc/class/posts_carousel.php:28
+msgid "Carousel Posts"
+msgstr ""
+
+#: vc/class/posts_carousel.php:29
+msgid "Display your carousel posts"
+msgstr ""
+
+#: vc/class/posts_carousel.php:39
+msgid "Posts Carousel Display Name"
+msgstr ""
+
+#: vc/class/posts_carousel.php:242
+msgid "Lazy Load"
+msgstr ""
+
+#: vc/class/posts_carousel.php:245
+msgid "Off"
+msgstr ""
+
+#: vc/class/posts_carousel.php:246
+msgid "On"
+msgstr ""
+
+#: vc/class/posts_tab.php:28
+msgid "Tab Posts"
+msgstr ""
+
+#: vc/class/posts_tab.php:29
+msgid "Display your tabs posts"
+msgstr ""
+
+#: vc/class/posts_tab.php:39
+msgid "Posts Tab Name"
+msgstr ""
+
+#: vc/class/posts_tab.php:67
+msgid "Name Tab 1"
+msgstr ""
+
+#: vc/class/posts_tab.php:69 vc/class/posts_tab.php:187
+#: vc/class/posts_tab.php:305
+msgid "If you leave empty this field tabs will be set on off"
+msgstr ""
+
+#: vc/class/posts_tab.php:185
+msgid "Name Tab 2"
+msgstr ""
+
+#: vc/class/posts_tab.php:303
+msgid "Name Tab 3"
+msgstr ""
+
+#: vc/function/newsticker.php:164
+msgid "Trending"
+msgstr ""
+
+#: vc/function/posts.php:133 vc/vc_functions.php:322
+msgid "Read More"
+msgstr ""
+
+#: vc/function/posts.php:134
+msgid "Loading posts..."
+msgstr ""
+
+#: vc/function/posts.php:135
+msgid "No more posts to load."
+msgstr ""
+
+#: vc/vc_functions.php:208 vc/vc_functions.php:219
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: vc/vc_functions.php:235
+msgid "No Comments"
+msgstr ""
+
+#: vc/vc_functions.php:238
+msgid " Comments"
+msgstr ""
+
+#: vc/vc_functions.php:241
+msgid "1 Comment"
+msgstr ""
+
+#: vc/vc_functions.php:341
+msgid "Click to share this post on Facebook"
+msgstr ""
+
+#: vc/vc_functions.php:342
+msgid "Click to share this post on Twitter"
+msgstr ""
+
+#: vc/vc_functions.php:343
+msgid "Click to share this post on Google+"
+msgstr ""
+
+#: vc/vc_functions.php:344
+msgid "Click to share this post on Linkedin"
+msgstr ""

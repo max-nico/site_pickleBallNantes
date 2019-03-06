@@ -1,0 +1,78 @@
+
+---Downloaded files---
+The import files for: Sport were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://maximemartin.pro
+Data file = /home/maximemaer/www/wp-content/uploads/2019/03/demo-content-import-file_2019-03-06__10-35-38.xml
+Widget file = /home/maximemaer/www/wp-content/uploads/2019/03/demo-widgets-import-file_2019-03-06__10-35-38.json
+Customizer file = not defined!
+Redux files:
+neder_theme -> /home/maximemaer/www/wp-content/uploads/2019/03/demo-redux-import-file_0-2019-03-06__10-35-38.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "neder_food_favicon" (Fichier média)
+[ERROR] Failed to import "neder_food_favicon_100x100" (Fichier média)
+[ERROR] Failed to import "neder_sport_logo" (Fichier média)
+[ERROR] Failed to import "neder_sport_logo_dark" (Fichier média)
+[ERROR] Failed to import "banner_neder_sport" (Fichier média)
+[ERROR] Failed to import "bannerads_neder_sport" (Fichier média)
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+Neder Mega Posts - LATEST POSTS - Imported
+widget-fnwp_social - FOLLOW US - Site does not support widget
+Neder Slider Posts - Popular Posts - Imported
+Neder Tags - No Title - Imported
+Neder Advertisement - No Title - Imported
+Neder archivies - Archivies - Imported
+widget-fnwp_social - Social - Site does not support widget
+Neder Slider Posts - RECENT POSTS - Imported
+Rechercher - SEARCH - Imported
+
+Footer First Column : 
+
+Neder - Contact - No Title - Imported
+
+Footer Second Column : 
+
+Neder Mega Posts - RECENT POSTS - Imported
+
+Footer Third Column : 
+
+Neder Tags - No Title - Imported
+
+Sidebar VC 1 : 
+
+Neder Mega Posts - LATEST POSTS - Imported
+Neder Advertisement - No Title - Imported
+Neder Slider Posts - news - Imported
+
+Sidebar VC 2 : 
+
+widget-fnwp_social - FOLLOW US - Site does not support widget
+Neder Slider Posts - RECENT POSTS - Imported
+Neder Mega Posts - RECENT POSTS - Imported
+Neder Tags - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: neder_theme finished successfully!
+
+---pt-ocdi/after_import---
+

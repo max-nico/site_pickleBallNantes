@@ -1,0 +1,25 @@
+.fc-field {
+	display:block;
+}
+.post-type-fastcarousel .setting {
+	display:none!important;
+}
+.fc-field span {
+	display:block;
+}
+.post-type-fastcarousel .collection-settings h2 {
+	display:none;
+}
+
+#fastcarousel-generator-overlay{width:100%; height:100%; left:0px; position:fixed; top:0px; z-index: 159900;}
+.fastcarousel-overlay-bg{background-color: #000000; opacity: 0.75;}
+#fastcarousel-generator-wrap {top:30px; right:30px; left:30px; bottom:30px; display: none; position: fixed; background: #fff; min-width:660px; min-height:600px; z-index: 160000; overflow:auto;}
+#fastcarousel-generator {margin:0; padding:20px; overflow: auto;}
+.fastcarousel-close {
+	float:right;
+	font-size:50px;
+	color:#000;
+}
+#fastcarousel-generator-insert {
+	margin-left:20px;
+}
