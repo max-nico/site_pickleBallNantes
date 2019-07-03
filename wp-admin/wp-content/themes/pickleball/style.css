@@ -1,0 +1,94 @@
+/*
+Theme Name: Theme pickleball
+Description: Theme enfant de insomnia
+Author: Nico et Max
+Author URI: 
+Template: insomnia 
+Version: 0.0.1
+*/
+@font-face{
+    font-family: "CA";
+    src: url("fonts/CAMagicHour-Regular.eot");
+    src: url("fonts/CAMagicHour-Regular.woff");
+    src: url("fonts/CAMagicHour-Regular.woff2");
+    src: url("fonts/CAMAGICHOUR-REGULAR.OTF");
+    font-display: swap;
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-BOLD";
+    src: url("fonts/MERRIWEATHERSANS-BOLD.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-BOLDITALIC";
+    src: url("fonts/MERRIWEATHERSANS-BOLDITALIC.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-EXTRABOLD";
+    src: url("fonts/MERRIWEATHERSANS-EXTRABOLD.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-EXTRABOLDITALIC";
+    src: url("fonts/MERRIWEATHERSANS-EXTRABOLDITALIC.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-ITALIC";
+    src: url("fonts/MERRIWEATHERSANS-ITALIC.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-LIGHT";
+    src: url("fonts/MERRIWEATHERSANS-LIGHT.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-LIGHTITALIC";
+    src: url("fonts/MERRIWEATHERSANS-LIGHTITALIC.TTF");
+}
+@font-face{
+    font-family: "MERRIWEATHERSANS-REGULAR";
+    src: url("fonts/MERRIWEATHERSANS-REGULAR.TTF");
+}
+
+
+
+
+h1, h2, h3 , h4, h5, a,body .rev_slider .tp-caption 
+ {
+    font-family:"CA" !important;
+    text-transform: uppercase;
+}
+
+p{
+    font-family: "MERRIWEATHERSANS-REGULAR";
+}
+
+html, body{
+    margin: 0%;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.header{
+    background: #e7e6e638;
+}
+.page-404{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.error-404{
+    position: absolute;
+    left: -10000px;
+}
+
+#canvas{
+    margin-top: 3em; 
+    border: 1px solid green;
+    width: 100%;
+    height: 100%;
+    /* background: url('/terrain.jpg') no-repeat; */
+    background-size: cover;
+}
+#bbpress-forums li.bbp-header {
+    background: #ef172f !important;
+}

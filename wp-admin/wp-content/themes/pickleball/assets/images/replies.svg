@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+        fill: url(#pattern);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 62 69">
+      <image width="62" height="69" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAABFCAYAAAASJFVGAAAE30lEQVR42u2ceWxUVRSHvxm2Qk2kxaUsRnYDqIlbsIU0dSFiKaCVCkoqSIIsgRAkigK1NkSMJEaRAg1CpRINsbZuFJXNprQgASRo0GgEZTcpYiWlss54T24mpbO9WTvTzj3/zZvbN+97997f+Z1zk9qcE6dkYXdkkUjhsFfbnM/kv47NXphQ4E5HkQE34AbcgBtwA27ADbgBN+AG3IAb8MQBzx4NHTvC1u1w8WICgU/IhZxsOHcOvtwM1TUJBD42W8/6lSuwqw7Wb0gA8Kn58OjDYLPpzw4H7NkLpWWxWfqtBr5gHtx7T8trAl+3B0reb6fgSUlQVAB9ent+J8v+qyqo+Lwdgg9/AKZNhRuSvX8vgrdO7fdDP7YzcPf97fEQTjj8M7yzUu/3nmlwUw/46XAbBpdlXvAq9L3d/7jLl+GzL1Sqq9Kfl7wCv/4G5ZVtFHzcGHhyPHTubD326B/wxlt61ufOgrvvgk3lsOO7NgYus714IfTvF9h4ARbQbTtg+jTIyoze/o8I+OBBeqn+eSz02XbFDwfh7RXN4BLHT0DxGjh1Os7A85QrS1OCtHJ187XeveBFlbvTbg3uXvVn4b1VkD9ZvdCBzeJ38JB6Ie/GGbiYk359Yc1apc6/6GuzZ0DGg76V3FdcugQ1tTAiA7p19S1+MQeX1PPSfEhJ0SZk8xaduibmtXzwgB/IqR1dhw6e3504CSuK4cxfcQA+Lgdyx+viY/tO2LcfZkyHHqmRV+KrV5XLUy/208oYg4tqL1ygxU1CKq6U7jBsqP8lLup98pRWe7s9uN8UAV36ZviFTVjgj41SS3oCdOmiPzc2quXdzRpGHvqDD+FO9YIy0r0va19x4QJs2Ai7v48h+GuL4I7Bwf+oC7x2N8xU22JEeuAzLxqws1qXszEBH/UITMrTyz3YaFSzVqpMyd59+u/nz7XeHu7LfXFhjMAXvawfNpRw5WqxqBLDhgQniOLmiku0l29VcKsy0z3+PQ+dOjWnN6nEli1vOUa0wtWQtIqm/9RWKQtvn4cEblVmerOhyclaD65dgy3faE/u7gfmzYHb+gSnEa0KLoXH0CHBFR633KyzwD8N2tr+fsRzrGiGzLqVyscEXMRoqRraq2dweTdzpAY7oGZ/VYn3sQMHqHJ0tm5CxB24CNGsF7RFtYrrl/XIDD3j0lj0V2V5a0q6R0ODvk84HZqogks5Keot3vr++/S1/QcsKr2nIOdx/yJ3+gwUFIXn3qIG3tQUWvdEKrrnp/gvcFw1e6vm8UD2uLgrMSfX1+eBhij/nJmQmhrdQiUkVbfah+dV3l5fZr2sfcXyZbqR4S3O/u07K0Qd3Kql5M2gRAJcVlKtqgBL1sWoLHUvR92V/Ntt8NGmyIPX12urGu5sh+XV04crB/ecp22NRI71Bh6qWEalLM19AsaMblmhhQvuLWvI+Zr4gU8q4qjZ6A4vTUFX7y2UcE9n8iKrFHRlhA8VI9JllYJFxK77jVqAanbB2tLQ7jV5knZ44tclO8hLlF5epCNiJynis/OfhQH94djx0PtihUtgkLrXkaOw8ePICFlUwV0xVqW6hzLh6636KCjYZf60sqx1qs4uryCqEZWzM3FdXZOCP/LxdRTVZsDbQhhwA27ADbgBN+AG3IAbcANuwOMYPEH/R8T/1HwNPKM7DO0AAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="replies" class="cls-1">
+    <circle class="cls-2" cx="45" cy="45" r="45"/>
+    <circle class="cls-3" cx="45" cy="45" r="44.5"/>
+  </g>
+</svg>
