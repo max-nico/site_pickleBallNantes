@@ -1,0 +1,928 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-12 14:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: forum.php:12 woocommerce.php:7 framework/functions/breadcrumbs.php:34
+#: framework/functions/breadcrumbs.php:40
+msgid "You are here:"
+msgstr ""
+
+#: header.php:83
+#, php-format
+msgid "Search Results for: <span class=\"colored\">%s</span>"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:16
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:17
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:201
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:586
+msgid "Older posts"
+msgstr ""
+
+#: functions.php:587
+msgid "Newer posts"
+msgstr ""
+
+#: functions.php:607
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:607 functions.php:636
+msgid "Edit"
+msgstr ""
+
+#: functions.php:620
+msgid "Post author"
+msgstr ""
+
+#: functions.php:625
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:631
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:638
+msgid "Reply"
+msgstr ""
+
+#: functions.php:745 framework/functions/breadcrumbs.php:7
+msgid "Home"
+msgstr ""
+
+#: framework/meta/metabox-class.php:423 framework/meta/metabox-class.php:423
+#: framework/meta/metabox-class.php:462 framework/meta/metabox-class.php:462
+#: framework/meta/metabox-class.php:1959 framework/meta/metabox-class.php:1959
+msgid "Remove"
+msgstr ""
+
+#: framework/meta/metabox-class.php:435 framework/meta/metabox-class.php:435
+msgid "Add"
+msgstr ""
+
+#: framework/meta/metabox-class.php:789
+msgid "Select a color"
+msgstr ""
+
+#: framework/meta/metabox-class.php:1822 framework/meta/metabox-class.php:1830
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: framework/meta/metabox-class.php:1994 framework/meta/metabox-class.php:1994
+msgid "Remove me"
+msgstr ""
+
+#: framework/formats/format.php:100 framework/formats/format.php:102
+msgid "Standard"
+msgstr ""
+
+#: framework/formats/format-quote.php:120
+#: framework/formats/format-quote.php:122
+msgid "Quote"
+msgstr ""
+
+#: framework/formats/format-audio.php:118
+#: framework/formats/format-audio.php:120
+msgid "Audio"
+msgstr ""
+
+#: framework/formats/format-link.php:120 framework/formats/format-link.php:122
+msgid "Link"
+msgstr ""
+
+#: framework/formats/format-image.php:111
+#: framework/formats/format-image.php:113
+msgid "Image"
+msgstr ""
+
+#: framework/formats/format-video.php:117
+#: framework/formats/format-video.php:119
+msgid "Video"
+msgstr ""
+
+#: framework/functions/theme-options.php:17
+msgid "General"
+msgstr ""
+
+#: framework/functions/theme-options.php:22
+msgid "Logo & Favicon"
+msgstr ""
+
+#: framework/functions/theme-options.php:24
+msgid "You can change logo and space beteew it."
+msgstr ""
+
+#: framework/functions/theme-options.php:28
+msgid "Menu"
+msgstr ""
+
+#: framework/functions/theme-options.php:30
+msgid "Some flexible options for menu."
+msgstr ""
+
+#: framework/functions/theme-options.php:34
+msgid "Sticky Posts"
+msgstr ""
+
+#: framework/functions/theme-options.php:36
+msgid "All your important content in one slider"
+msgstr ""
+
+#: framework/functions/theme-options.php:40
+msgid "Blog"
+msgstr ""
+
+#: framework/functions/theme-options.php:42
+msgid "Some functions for your needs"
+msgstr ""
+
+#: framework/functions/theme-options.php:46
+msgid "Footer"
+msgstr ""
+
+#: framework/functions/theme-options.php:48
+msgid "Change footer text"
+msgstr ""
+
+#: framework/functions/theme-options.php:53
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/functions/theme-options.php:59
+msgid "Other Options"
+msgstr ""
+
+#: framework/functions/sidebars.php:11
+msgid "Main Sidebar"
+msgstr ""
+
+#: framework/functions/sidebars.php:13
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: framework/functions/sidebars.php:24
+msgid "Banner Area"
+msgstr ""
+
+#: framework/functions/sidebars.php:26
+msgid ""
+"If you choose Menu: \"Style 7\", you can add banner to header. Please use "
+"\"Text\" widget with yours code (AdSense, simple HTML/CSS, etc)."
+msgstr ""
+
+#: framework/functions/sidebars.php:36 framework/content/footer.php:17
+#: framework/content/footer.php:60 framework/content/footer.php:117
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: framework/functions/sidebars.php:38 framework/functions/sidebars.php:49
+#: framework/functions/sidebars.php:59 framework/functions/sidebars.php:69
+msgid "Appears on all pages at the bottom of site."
+msgstr ""
+
+#: framework/functions/sidebars.php:47 framework/content/footer.php:31
+#: framework/content/footer.php:74 framework/content/footer.php:131
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: framework/functions/sidebars.php:57 framework/content/footer.php:45
+#: framework/content/footer.php:88 framework/content/footer.php:145
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: framework/functions/sidebars.php:67 framework/content/footer.php:102
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: framework/functions/sidebars.php:77
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: framework/functions/sidebars.php:79
+msgid "Add your widgets to shop page"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:8
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:9
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:10
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:11
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:12
+msgid "Error 404"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:143
+msgid " - Page"
+msgstr ""
+
+#: framework/functions/woocommerce.php:51
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: framework/functions/woocommerce.php:108
+#: framework/functions/woocommerce.php:130 framework/content/top/style1.php:71
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/woocommerce.php:125
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/functions/woocommerce.php:126
+msgid "Start shopping"
+msgstr ""
+
+#: framework/content/category.php:5 framework/content/tags.php:7
+#: framework/content/archive.php:7 framework/content/archive.php:9
+#: framework/content/archive.php:11 framework/content/search.php:5
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/content/category.php:21
+msgid "Sorry, no posts in this category."
+msgstr ""
+
+#: framework/content/404.php:2
+msgid "Oops, 404 Error"
+msgstr ""
+
+#: framework/content/404.php:4
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/content/tags.php:25
+msgid "Sorry, no posts found under this tag."
+msgstr ""
+
+#: framework/content/single.php:57 framework/content/single.php:85
+#: framework/content/single.php:111
+msgid "Sorry, no posts. "
+msgstr ""
+
+#: framework/content/content.php:57
+msgid "Nothing was found"
+msgstr ""
+
+#: framework/content/archive.php:9
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: framework/content/archive.php:11
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: framework/content/archive.php:13
+msgid "Archives"
+msgstr ""
+
+#: framework/content/archive.php:27
+msgid "Sorry, no posts in archives."
+msgstr ""
+
+#: framework/content/search.php:26
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/content/search.php:30
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/content/footer.php:18 framework/content/footer.php:61
+#: framework/content/footer.php:118
+msgid ""
+"Insert your widget on \"Footer widget 1\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: framework/content/footer.php:32 framework/content/footer.php:75
+#: framework/content/footer.php:132
+msgid ""
+"Insert your widget on \"Footer widget 2\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: framework/content/footer.php:46 framework/content/footer.php:89
+#: framework/content/footer.php:146
+msgid ""
+"Insert your widget on \"Footer widget 3\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: framework/content/footer.php:103
+msgid ""
+"Insert your widget on \"Footer widget 4\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: framework/content/footer.php:166 framework/content/footer.php:187
+msgid "Copyright 2016. All Rights Reserved."
+msgstr ""
+
+#: framework/content/footer.php:171
+msgid ""
+"Powered by <a href=\"https://themeforest.net/user/dankov\" target=\"_blank\">"
+"Dankov</a>"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: framework/functions/options/logo.php:6
+msgid "Logo by image"
+msgstr ""
+
+#: framework/functions/options/logo.php:11
+#: framework/functions/options/top.php:11
+#: framework/functions/options/content.php:28
+#: framework/functions/options/content.php:51
+#: framework/functions/options/content.php:64
+#: framework/functions/options/woo.php:10
+#: framework/functions/options/soc.php:11
+#: framework/functions/options/menu.php:32
+#: framework/functions/options/menu.php:44
+#: framework/functions/options/menu.php:46
+#: framework/functions/options/menu.php:48
+#: framework/functions/options/menu.php:50
+#: framework/functions/options/menu.php:61
+#: framework/functions/options/menu.php:185
+#: framework/functions/options/menu.php:658
+#: framework/functions/options/menu.php:684
+#: framework/functions/options/slider.php:11
+#: framework/functions/options/slider.php:24
+#: framework/functions/options/footer.php:11
+#: framework/functions/options/footer.php:24
+#: framework/functions/options/footer.php:65
+msgid "Enable"
+msgstr ""
+
+#: framework/functions/options/logo.php:12
+#: framework/functions/options/top.php:12
+#: framework/functions/options/content.php:29
+#: framework/functions/options/content.php:52
+#: framework/functions/options/content.php:65
+#: framework/functions/options/woo.php:11
+#: framework/functions/options/soc.php:12
+#: framework/functions/options/menu.php:33
+#: framework/functions/options/menu.php:44
+#: framework/functions/options/menu.php:46
+#: framework/functions/options/menu.php:48
+#: framework/functions/options/menu.php:50
+#: framework/functions/options/menu.php:62
+#: framework/functions/options/menu.php:186
+#: framework/functions/options/menu.php:659
+#: framework/functions/options/menu.php:685
+#: framework/functions/options/slider.php:12
+#: framework/functions/options/slider.php:25
+#: framework/functions/options/footer.php:12
+#: framework/functions/options/footer.php:25
+#: framework/functions/options/footer.php:66
+msgid "Disable"
+msgstr ""
+
+#: framework/functions/options/logo.php:19
+msgid "Add text logo"
+msgstr ""
+
+#: framework/functions/options/logo.php:99
+msgid "Favicon"
+msgstr ""
+
+#: framework/functions/options/logo.php:100
+msgid "Image 16x16, ico/png"
+msgstr ""
+
+#: framework/functions/options/logo.php:109
+msgid "Favicon iPhone"
+msgstr ""
+
+#: framework/functions/options/logo.php:110
+msgid "Image 114x114, ico/png"
+msgstr ""
+
+#: framework/functions/options/logo.php:119
+msgid "Favicon iPad"
+msgstr ""
+
+#: framework/functions/options/logo.php:120
+msgid "Image 144x144, ico/png"
+msgstr ""
+
+#: framework/functions/options/top.php:6
+#: framework/functions/options/menu.php:56
+msgid "Top Bar"
+msgstr ""
+
+#: framework/functions/options/top.php:19
+#: framework/functions/options/menu.php:76
+#: framework/functions/options/menu.php:124
+msgid "Adress"
+msgstr ""
+
+#: framework/functions/options/top.php:28
+#: framework/functions/options/menu.php:92
+#: framework/functions/options/menu.php:140
+msgid "Phone"
+msgstr ""
+
+#: framework/functions/options/top.php:37
+#: framework/functions/options/menu.php:108
+#: framework/functions/options/menu.php:156
+msgid "E-mail"
+msgstr ""
+
+#: framework/functions/options/general.php:5
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/functions/options/general.php:17
+msgid "Scroll Up"
+msgstr ""
+
+#: framework/functions/options/general.php:22
+msgid "Show"
+msgstr ""
+
+#: framework/functions/options/general.php:23
+msgid "Hide"
+msgstr ""
+
+#: framework/functions/options/general.php:29
+msgid "Link to Works"
+msgstr ""
+
+#: framework/functions/options/general.php:30
+msgid "Add link to \"All Works\" in Portfolio saction."
+msgstr ""
+
+#: framework/functions/options/general.php:38
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/functions/options/content.php:6
+msgid "Post Style"
+msgstr ""
+
+#: framework/functions/options/content.php:12
+msgid "Classic"
+msgstr ""
+
+#: framework/functions/options/content.php:13
+msgid "Medium"
+msgstr ""
+
+#: framework/functions/options/content.php:14
+msgid "Masonry"
+msgstr ""
+
+#: framework/functions/options/content.php:15
+msgid "Tiles"
+msgstr ""
+
+#: framework/functions/options/content.php:22
+msgid "Grey Background"
+msgstr ""
+
+#: framework/functions/options/content.php:23
+msgid "Recommend for Masonry or Tilies Style"
+msgstr ""
+
+#: framework/functions/options/content.php:36
+msgid "Post Image Height"
+msgstr ""
+
+#: framework/functions/options/content.php:37
+msgid "Set your own height of image in px (ex: 500px)"
+msgstr ""
+
+#: framework/functions/options/content.php:46
+msgid "Post Format Icon"
+msgstr ""
+
+#: framework/functions/options/content.php:59
+msgid "Show Drop Caps"
+msgstr ""
+
+#: framework/functions/options/content.php:60
+msgid "For the single posts."
+msgstr ""
+
+#: framework/functions/options/content.php:72
+#: framework/functions/options/content.php:90
+msgid "Meta Box"
+msgstr ""
+
+#: framework/functions/options/content.php:73
+msgid "Choose your social media"
+msgstr ""
+
+#: framework/functions/options/content.php:78
+#: framework/functions/options/soc.php:19
+#: framework/functions/options/menu.php:195
+#: framework/functions/options/menu.php:374
+msgid "Facebook"
+msgstr ""
+
+#: framework/functions/options/content.php:79
+#: framework/functions/options/soc.php:35
+#: framework/functions/options/menu.php:211
+#: framework/functions/options/menu.php:390
+#: framework/functions/options/menu.php:553
+#: framework/functions/options/menu.php:692
+msgid "Twitter"
+msgstr ""
+
+#: framework/functions/options/content.php:80
+#: framework/functions/options/soc.php:285
+#: framework/functions/options/menu.php:356
+#: framework/functions/options/menu.php:535
+msgid "Pinterest"
+msgstr ""
+
+#: framework/functions/options/content.php:81
+#: framework/functions/options/soc.php:150
+#: framework/functions/options/menu.php:258
+#: framework/functions/options/menu.php:437
+#: framework/functions/options/menu.php:600
+#: framework/functions/options/menu.php:739
+msgid "Tumblr"
+msgstr ""
+
+#: framework/functions/options/content.php:82
+#: framework/functions/options/soc.php:100
+#: framework/functions/options/menu.php:291
+#: framework/functions/options/menu.php:470
+msgid "Google Plus"
+msgstr ""
+
+#: framework/functions/options/content.php:83
+#: framework/functions/options/soc.php:116
+#: framework/functions/options/menu.php:307
+#: framework/functions/options/menu.php:486
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/functions/options/content.php:91
+msgid "Control meta information"
+msgstr ""
+
+#: framework/functions/options/content.php:96
+#: framework/functions/options/footer.php:72
+msgid "Author"
+msgstr ""
+
+#: framework/functions/options/content.php:97
+msgid "Date"
+msgstr ""
+
+#: framework/functions/options/content.php:98
+msgid "Views"
+msgstr ""
+
+#: framework/functions/options/content.php:99
+msgid "Category"
+msgstr ""
+
+#: framework/functions/options/content.php:100
+msgid "Comments"
+msgstr ""
+
+#: framework/functions/options/content.php:101
+msgid "Tags"
+msgstr ""
+
+#: framework/functions/options/content.php:102
+msgid "Read More"
+msgstr ""
+
+#: framework/functions/options/content.php:110
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/functions/options/content.php:111
+msgid "Sidebars within site, except single post."
+msgstr ""
+
+#: framework/functions/options/content.php:124
+msgid "Single Sidebar Position"
+msgstr ""
+
+#: framework/functions/options/content.php:125
+msgid "Sidebars in single post."
+msgstr ""
+
+#: framework/functions/options/woo.php:5
+msgid "Shop Cart In Menu"
+msgstr ""
+
+#: framework/functions/options/woo.php:17
+msgid "Product Per Row"
+msgstr ""
+
+#: framework/functions/options/woo.php:22
+msgid "2"
+msgstr ""
+
+#: framework/functions/options/woo.php:23
+msgid "3"
+msgstr ""
+
+#: framework/functions/options/woo.php:24
+msgid "4"
+msgstr ""
+
+#: framework/functions/options/woo.php:30
+msgid "Product Per Page"
+msgstr ""
+
+#: framework/functions/options/woo.php:43
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: framework/functions/options/soc.php:6
+#: framework/functions/options/menu.php:173
+msgid "Social Link"
+msgstr ""
+
+#: framework/functions/options/soc.php:51
+#: framework/functions/options/menu.php:226
+#: framework/functions/options/menu.php:405
+#: framework/functions/options/menu.php:568
+#: framework/functions/options/menu.php:707
+msgid "Dribbble"
+msgstr ""
+
+#: framework/functions/options/soc.php:67
+#: framework/functions/options/menu.php:242
+#: framework/functions/options/menu.php:421
+#: framework/functions/options/menu.php:584
+#: framework/functions/options/menu.php:723
+msgid "Instagram"
+msgstr ""
+
+#: framework/functions/options/soc.php:83
+#: framework/functions/options/menu.php:274
+#: framework/functions/options/menu.php:453
+msgid "YouTube"
+msgstr ""
+
+#: framework/functions/options/soc.php:133
+msgid "Flickr"
+msgstr ""
+
+#: framework/functions/options/soc.php:168
+msgid "Foursquare"
+msgstr ""
+
+#: framework/functions/options/soc.php:187
+msgid "Apple"
+msgstr ""
+
+#: framework/functions/options/soc.php:205
+msgid "Android"
+msgstr ""
+
+#: framework/functions/options/soc.php:221
+msgid "Windows"
+msgstr ""
+
+#: framework/functions/options/soc.php:237
+msgid "Vkontatke"
+msgstr ""
+
+#: framework/functions/options/soc.php:253
+#: framework/functions/options/menu.php:339
+#: framework/functions/options/menu.php:518
+msgid "Behance"
+msgstr ""
+
+#: framework/functions/options/soc.php:269
+msgid "Delicious"
+msgstr ""
+
+#: framework/functions/options/soc.php:301
+msgid "Skype"
+msgstr ""
+
+#: framework/functions/options/soc.php:317
+msgid "GitHub"
+msgstr ""
+
+#: framework/functions/options/soc.php:333
+#: framework/functions/options/menu.php:618
+#: framework/functions/options/menu.php:757
+msgid "Vimeo"
+msgstr ""
+
+#: framework/functions/options/soc.php:349
+msgid "RSS"
+msgstr ""
+
+#: framework/functions/options/menu.php:6
+msgid "Menu Style"
+msgstr ""
+
+#: framework/functions/options/menu.php:11
+msgid "Wide Menu With Extras"
+msgstr ""
+
+#: framework/functions/options/menu.php:12
+msgid "Fixed Menu With Cart"
+msgstr ""
+
+#: framework/functions/options/menu.php:13
+msgid "Minimal With Burger"
+msgstr ""
+
+#: framework/functions/options/menu.php:14
+msgid "Menu With Search Field"
+msgstr ""
+
+#: framework/functions/options/menu.php:15
+msgid "Magazine Style With Social Link"
+msgstr ""
+
+#: framework/functions/options/menu.php:16
+msgid "Logo Center With Menu And Search"
+msgstr ""
+
+#: framework/functions/options/menu.php:17
+msgid "Top Bar With Widget Area"
+msgstr ""
+
+#: framework/functions/options/menu.php:18
+msgid "Menu With Cart And Top Bar"
+msgstr ""
+
+#: framework/functions/options/menu.php:27
+#: framework/functions/options/menu.php:44
+#: framework/functions/options/menu.php:46
+#: framework/functions/options/menu.php:48
+#: framework/functions/options/menu.php:50
+msgid "Transparent menu"
+msgstr ""
+
+#: framework/functions/options/menu.php:323
+#: framework/functions/options/menu.php:502
+msgid "Vkontakte"
+msgstr ""
+
+#: framework/functions/options/menu.php:635
+#: framework/functions/options/menu.php:774
+msgid "Dropbox"
+msgstr ""
+
+#: framework/functions/options/menu.php:652
+msgid "Widget Area"
+msgstr ""
+
+#: framework/functions/options/menu.php:672
+msgid "Search Button"
+msgstr ""
+
+#: framework/functions/options/slider.php:6
+msgid "Sticky Posts in Slider"
+msgstr ""
+
+#: framework/functions/options/slider.php:18
+msgid "Show Sticky Posts"
+msgstr ""
+
+#: framework/functions/options/slider.php:19
+msgid "Disable, if you want to hide sticky posts when slider enable"
+msgstr ""
+
+#: framework/functions/options/footer.php:6
+msgid "Sticky Footer"
+msgstr ""
+
+#: framework/functions/options/footer.php:19
+msgid "Widgets Footer"
+msgstr ""
+
+#: framework/functions/options/footer.php:32
+msgid "Count Of Widgets"
+msgstr ""
+
+#: framework/functions/options/footer.php:37
+msgid "1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: framework/functions/options/footer.php:38
+msgid "1/3 + 1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: framework/functions/options/footer.php:39
+msgid "1/4 + 2/4 + 1/4"
+msgstr ""
+
+#: framework/functions/options/footer.php:46
+msgid "Small Footer Style"
+msgstr ""
+
+#: framework/functions/options/footer.php:51
+msgid "Dark"
+msgstr ""
+
+#: framework/functions/options/footer.php:52
+msgid "Light"
+msgstr ""
+
+#: framework/functions/options/footer.php:60
+msgid "Author Info"
+msgstr ""
+
+#: framework/functions/options/footer.php:87
+msgid "Copyright"
+msgstr ""
+
+#. Name of the theme
+#: framework/content/top/style5.php:7 framework/content/top/style5.php:12
+#: framework/content/top/style3.php:11 framework/content/top/style3.php:16
+#: framework/content/top/style1.php:8 framework/content/top/style1.php:13
+#: framework/content/top/style6.php:23 framework/content/top/style6.php:28
+#: framework/content/top/style4.php:17 framework/content/top/style7.php:36
+#: framework/content/top/style7.php:41 framework/content/top/style7.php:57
+#: framework/content/top/style7.php:61 framework/content/top/style2.php:8
+#: framework/content/top/style2.php:13 framework/content/top/style8.php:34
+#: framework/content/top/style8.php:39
+msgid "Insomnia"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"This elegant and professional creative theme is great for anyone looking "
+"display a lot of content in a clean and userfriendly manner. Insomnia has "
+"plugin compatibility with bbPress, BuddyPress, WooCommerce, etc."
+msgstr ""
+
+#. URI of the theme
+msgid "https://wordpress.dankov-themes.com/insomnia"
+msgstr ""
+
+#. Author of the theme
+msgid "DankovThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/Dankov"
+msgstr ""

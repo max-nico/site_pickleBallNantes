@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+        fill: url(#pattern);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 68 59">
+      <image width="68" height="59" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="topics" class="cls-1">
+    <circle class="cls-2" cx="45" cy="45" r="45"/>
+    <circle class="cls-3" cx="45" cy="45" r="44.5"/>
+  </g>
+</svg>
